@@ -1,0 +1,14 @@
+;aiu;
+
+[Update]
+Name = Hardlight Runtime
+ProductVersion = 1.0.1
+URL = http://www.hardlightvr.com/download/HardlightRuntimeInstaller1.0.1.exe
+Size = 21691656
+MD5 = a707f79dbc5fcdac9389a1ed01a5f84b
+ServerFileName = HardlightRuntimeInstaller1.0.1.exe
+Flags = Sys64
+RegistryKey = HKUD\Software\NullSpace VR\Hardlight Runtime\Version
+Version = 1.0.1
+UpdatedApplications = Hardlight Runtime[1.0-1.0.1)
+Description = Test
