@@ -12,11 +12,12 @@
     <ROW Section="Update" Key="ProductVersion" Value="1.0.5.0" ValueLocId="-"/>
     <ROW Section="Update" Key="URL" Value="http://www.hardlightvr.com/download/HardlightRuntimeInstaller1.0.5.exe" ValueLocId="-"/>
     <ROW Section="Update" Key="Size" Value="Hardlight Runtime\Setup Files\HardlightRuntimeInstaller1.0.5.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="ReleaseDate" Value="19349" ValueLocId="-"/>
     <ROW Section="Update" Key="MD5" Value="Hardlight Runtime\Setup Files\HardlightRuntimeInstaller1.0.5.exe" ValueLocId="-"/>
     <ROW Section="Update" Key="ServerFileName" Value="HardlightRuntimeInstaller1.0.5.exe" ValueLocId="-"/>
-    <ROW Section="Update" Key="Flags" Value="Critical" ValueLocId="-"/>
-    <ROW Section="Update" Key="RegistryKey" Value="HKUD\Software\Hardlight VR\Hardlight Runtime\Version" ValueLocId="-"/>
-    <ROW Section="Update" Key="Version" Value="1.0.5.0" ValueLocId="-"/>
+    <ROW Section="Update" Key="Flags" Value="Critical|Sys64" ValueLocId="-"/>
+    <ROW Section="Update" Key="RegistryKey" Value="HKLM\SOFTWARE\WOW6432Node\Hardlight VR\Service\Version" ValueLocId="-"/>
+    <ROW Section="Update" Key="Version" Value="1.0.5" ValueLocId="-"/>
     <ROW Section="Update" Key="Description" Value="Maintenance &amp; bugfixes. "/>
     <ATTRIBUTE name="OutputFileName" value=".txt"/>
   </COMPONENT>
